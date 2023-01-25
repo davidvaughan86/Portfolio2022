@@ -29,6 +29,9 @@ a {
   background-color: transparent;
   text-decoration: none;
 }
+img {
+  background-size: cover;
+}
 
 a:visited {
   text-decoration: none;
